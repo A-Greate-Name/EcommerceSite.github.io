@@ -1,7 +1,0 @@
-C:\Users\ACER\Source\Repos\A-Greate-Name\EcommerceSite.github.io\BACKENED\EcommerceBackened\bin\EcommerceBackened.dll.config
-C:\Users\ACER\Source\Repos\A-Greate-Name\EcommerceSite.github.io\BACKENED\EcommerceBackened\bin\EcommerceBackened.dll
-C:\Users\ACER\Source\Repos\A-Greate-Name\EcommerceSite.github.io\BACKENED\EcommerceBackened\bin\EcommerceBackened.pdb
-C:\Users\ACER\Source\Repos\A-Greate-Name\EcommerceSite.github.io\BACKENED\EcommerceBackened\obj\Debug\EcommerceBackened.csprojAssemblyReference.cache
-C:\Users\ACER\Source\Repos\A-Greate-Name\EcommerceSite.github.io\BACKENED\EcommerceBackened\obj\Debug\EcommerceBackened.csproj.CoreCompileInputs.cache
-C:\Users\ACER\Source\Repos\A-Greate-Name\EcommerceSite.github.io\BACKENED\EcommerceBackened\obj\Debug\EcommerceBackened.dll
-C:\Users\ACER\Source\Repos\A-Greate-Name\EcommerceSite.github.io\BACKENED\EcommerceBackened\obj\Debug\EcommerceBackened.pdb
